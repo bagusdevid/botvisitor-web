@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhreatif.com&label=YangBertamu&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com/bagusdevid/&label=YangBertamu&countColor=%23263759)
 # botvisitor-web
 Bot Visitor Website with Proxy [ Auto Click Your Web ]
 
